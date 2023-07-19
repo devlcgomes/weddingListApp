@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">WeddingList</string>
+    <string name="txtTitle">Wedding List</string>
+    <string name="txtLabelFirstName">First Name</string>
+    <string name="txtLabelLastName">Last Name</string>
+    <string name="txtLabelEmail">Email</string>
+    <string name="txtLabelWhatsapp">Whatsapp</string>
+    <string name="txtBtnClear">Clear</string>
+    <string name="txtBtnSave">Save</string>
+    <string name="txtBtnFinalize">Finalize</string>
+
+
 </resources>
