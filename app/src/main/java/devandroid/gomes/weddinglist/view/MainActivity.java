@@ -1,8 +1,10 @@
-package devandroid.gomes.weddinglist;
+package devandroid.gomes.weddinglist.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import devandroid.gomes.weddinglist.R;
 
 public class MainActivity extends AppCompatActivity {
 
